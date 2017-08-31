@@ -357,6 +357,6 @@ CREATE TABLE `users`  (
 -- Records of users
 -- ----------------------------
 INSERT INTO `users` VALUES (13, 'Test A', 'test@test.test', '$2y$10$VzaFECcy6hb2df5leNEyTOcBo4DbZkhieiglLCcdqwE8Vp1YXn/R6', '1A-99', 0, 1);
-INSERT INTO `users` VALUES (21, 'Default Admin', 'admin@test.com', '$2y358c8c0e878fbf15371b5e557876cac8', '1A-98', 0, 1);
+INSERT INTO `users` VALUES (21, 'Default Admin', 'admin@test.com', '$2y$10$6w.jv3CivWOjzSwbKJXVP.M26Au.dLzhMrp70HxfZ9AB.E2MYZ/9y', '1A-98', 0, 1);
 
 SET FOREIGN_KEY_CHECKS = 1;
